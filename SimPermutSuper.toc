@@ -1,0 +1,7 @@
+## Interface: 90100
+## Title: SimPermutSuper
+## Notes: Creates Full Sim permut all iutems
+## Author: Geloch
+## Version: 1.0
+
+core.lua
